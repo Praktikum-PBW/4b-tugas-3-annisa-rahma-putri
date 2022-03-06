@@ -1,0 +1,40 @@
+.header{
+    color: #fafafa;
+    padding-bottom: 20px;
+    font-size: larger;
+    font-weight: bold;   
+    margin-top: 25px;
+}
+
+.td{
+    color: 	#fafafa;
+}
+
+.button{
+    background-color: rgb(154, 224, 75);
+    color: 	#fafafa;
+    margin: 12px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;   
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+ .tabel{
+    background-color: 	#000000;
+    margin: auto;
+    border-style: dotted;
+    border-color: rgb(154, 224, 75);
+    padding: 30px;
+    font-family: Courier;
+    font-size: smaller;
+ }
+
+ .input{
+    border-color: rgb(154, 224, 75);
+    border-style: dotted;
+    font-family: Poppins;
+ }
+
+

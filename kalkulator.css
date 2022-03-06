@@ -1,0 +1,39 @@
+.tabel{
+    background-color: rgb(0, 7, 6);
+    color: azure;
+    margin: auto;
+    border-style: solid;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: smaller;
+ }
+
+ .header{
+    color: azure;
+     padding-bottom: 20px;
+     font-size: larger;
+ }
+
+.button{
+    background-color: rgb(126, 219, 19);
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;   
+    margin-top: 20px; 
+}
+
+ .hasil{
+     background-color: white;
+     border-style: solid;
+     border-color: rgb(126, 219, 19);;
+     font-family:'Times New Roman', Times, serif;
+     font-weight: bold;   
+ }
+
+ .input{
+    border-color: rgb(126, 219, 19);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+ }
